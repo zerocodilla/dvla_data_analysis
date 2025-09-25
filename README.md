@@ -47,7 +47,7 @@ I make the following assumptions so results are reproducible and interpretable:
 
 2. Overall gender difference: Male drivers have a higher share of drivers with penalty points than female drivers in this dataset (roughly ~2x).
 
-3. Geography: After filtering districts with at least 100 full licences, the highest percent of drivers with penalty points appear in several West Yorkshire districts (e.g., LS23, LS14/LS15, HX areas) and pockets in Plymouth and Liverpool.
+3. Geography: After filtering districts with at least 100 full licences, the highest percent of drivers with penalty points appear in several West Yorkshire districts (e.g., LS23, LS14/LS15, HX areas) and also in Plymouth (PL03) and Liverpool (L29).
 <img width="1150" height="527" alt="Screenshot 2025-09-24 at 13 44 55" src="https://github.com/user-attachments/assets/de62b55d-617d-4c32-8f02-3efd94b9cae6" />
 
 This analysis can be useful for Insurance companies or Road Safety Teams for data-informed decisions.
